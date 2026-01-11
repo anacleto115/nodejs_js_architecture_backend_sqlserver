@@ -1,0 +1,12 @@
+{
+  "name": "lib_service_core",
+  "version": "0.0.0",
+  "description": "lib_service_core",
+  "main": "app.js",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "lib_domain_context": "^0.0.0"
+  }
+}

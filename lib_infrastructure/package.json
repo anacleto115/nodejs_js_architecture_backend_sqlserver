@@ -1,0 +1,13 @@
+{
+  "name": "lib_infrastructure",
+  "version": "0.0.0",
+  "description": "lib_infrastructure",
+  "main": "app.js",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "lib_domain_entities": "^0.0.0",
+    "lib_domain_context": "^0.0.0"
+  }
+}

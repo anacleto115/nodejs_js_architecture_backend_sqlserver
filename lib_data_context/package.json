@@ -1,0 +1,17 @@
+{
+  "name": "lib_data_context",
+  "version": "0.0.0",
+  "description": "lib_data_context",
+  "main": "app.js",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "mssql": "^8.0.2",
+    "lib_utilities": "^0.0.0",
+    "lib_data_core": "^0.0.0",
+    "lib_infrastructure": "^0.0.0",
+    "lib_domain_entities": "^0.0.0",
+    "lib_domain_context": "^0.0.0"
+  }
+}

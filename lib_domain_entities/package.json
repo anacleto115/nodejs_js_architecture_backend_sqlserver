@@ -1,0 +1,12 @@
+{
+  "name": "lib_domain_entities",
+  "version": "0.0.0",
+  "description": "lib_domain_entities",
+  "main": "app.js",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "lib_domain_context": "^0.0.0"
+  }
+}

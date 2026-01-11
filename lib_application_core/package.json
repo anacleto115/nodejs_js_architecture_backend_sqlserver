@@ -1,0 +1,13 @@
+{
+  "name": "lib_application_core",
+  "version": "0.0.0",
+  "description": "lib_application_core",
+  "main": "app.js",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "lib_utilities": "^0.0.0",
+    "lib_domain_context": "^0.0.0"
+  }
+}

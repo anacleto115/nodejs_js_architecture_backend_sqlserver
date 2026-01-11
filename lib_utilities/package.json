@@ -1,0 +1,12 @@
+{
+  "name": "lib_utilities",
+  "version": "0.0.0",
+  "description": "lib_utilities",
+  "main": "app.js",
+  "devDependencies": {
+    "@types/node": "^14.14.7"
+  },
+  "dependencies": {
+
+  }
+}
